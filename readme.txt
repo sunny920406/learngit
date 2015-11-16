@@ -5,3 +5,13 @@ Git tracks changes of files.I
 In My Home Change!!!!!
 Creating a new branch is quick and simple.
 Kakaxi
+Bug coding!
+
+
+this is first hehe
+
+this is second user push
+
+In my company change
+
+kakaxi
